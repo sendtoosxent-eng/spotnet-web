@@ -1,16 +1,16 @@
-# Pixels – Free template to start your Next.js site
+# Spotnet website suggestions code
 #### Preview
 
- - [Demo](https://themewagon.github.io/pixels-reactjs/)
+ - [Demo]
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/pixels-react/)
+ - 
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/pixels-reactjs.git
+t
 ```
 2. Install Dependencies
 ```
@@ -30,11 +30,11 @@ bun dev
 
 ## Author 
 ```
-Design and code are completely written by PrebuiltUI and the development team. 
+Design and code are completely written by Spotnet tech  development team. 
 ```
 
 ## License
 
- - Design and Code is Copyright &copy; [PrebuiltUI](https://prebuiltui.com/)
+ - Design and Code is Copyright &copy; [Spotnet](https://spotnet.com/)
  - Licensed under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
+ - Spotnet Technologies.
