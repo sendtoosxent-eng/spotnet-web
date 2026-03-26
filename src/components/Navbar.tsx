@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 import { navlinks } from "../data/navlinks";
 import type { INavLink } from "../types";
 import { NavLink } from "react-router-dom";
-import logo from '../assets/logo.png';
+import logo from '../assets/spot.png';
 
 
 export default function Navbar() {
